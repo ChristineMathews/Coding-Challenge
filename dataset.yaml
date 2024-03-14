@@ -1,0 +1,6 @@
+train: /Users/christinemathews/Downloads/yoloV8/yolo_data/images/train # train images (relative to 'path') 128 images
+val: /Users/christinemathews/Downloads/yoloV8/yolo_data/images/val # val images (relative to 'path') 128 images
+
+# Classes
+nc: 2 # number of classes
+names: ["player", "football"] # class names
