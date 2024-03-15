@@ -19,3 +19,5 @@ YOLOv8 utilizes deep learning techniques, specifically convolutional neural netw
 Real-time processing capabilities of YOLOv8 enable timely detection of players during live football matches
 
 In contrast, traditional approaches, such as background subtraction and color-based segmentation, rely on manual rules and thresholds, which may result in less accurate and adaptable solutions, especially in complex environments. Overall, YOLOv8 offers superior performance and scalability for player detection in football matches compared to traditional methods.
+
+[DataSet]([url](https://www.kaggle.com/datasets/outliersloop/footballyolov8/data)https://www.kaggle.com/datasets/outliersloop/footballyolov8/data)
