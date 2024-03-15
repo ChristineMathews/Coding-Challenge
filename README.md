@@ -32,3 +32,16 @@ Output>
 https://github.com/ChristineMathews/Coding-Challenge/assets/34720216/577d646c-6c10-4004-8808-e9090bae2d5f
 
 
+## Folder Structure
+
+```
+Athlete Detection/
+    └── data/                # data set with labels
+    └── output/              # Save output after processing 
+    └── test/                # test images
+    └── videos/              # for detection 
+    └── training_result/     # to store training data
+    └── yolo_data/           # data after seperate and for training the model
+    └──  + The rest of the python files are uploaded 
+
+
