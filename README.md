@@ -23,6 +23,10 @@ In contrast, traditional approaches, such as background subtraction and color-ba
 input>
 
 
+https://github.com/ChristineMathews/Coding-Challenge/assets/34720216/4fdf80b1-41df-46d3-92d8-0ef0ced64988
+
+
+
 Output>
 
 https://github.com/ChristineMathews/Coding-Challenge/assets/34720216/577d646c-6c10-4004-8808-e9090bae2d5f
